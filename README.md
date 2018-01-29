@@ -1,2 +1,2 @@
 # hello-world
-This is my hello world repo
+I am Li-Chian Wang and I love computer science
